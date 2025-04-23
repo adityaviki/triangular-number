@@ -11,7 +11,7 @@ For example, the 7th triangular number is 28, which can be represented as:
 The program offers two main functionalities:
 
 1. Find the nth triangular number and its divisors
-2. Find the first triangular number that has more than X divisors
+2. Find the first triangular number that has at least X divisors
 
 ## Installation
 
